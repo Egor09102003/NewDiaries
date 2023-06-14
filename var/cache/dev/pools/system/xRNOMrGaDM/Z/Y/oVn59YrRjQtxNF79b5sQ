@@ -1,0 +1,3 @@
+<?php //App%255CController%255CApi%255CV1%255CUserProfileController%2523getPaginationStructure
+
+return [PHP_INT_MAX, []];

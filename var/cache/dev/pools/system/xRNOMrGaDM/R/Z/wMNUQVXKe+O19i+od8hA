@@ -1,0 +1,3 @@
+<?php //App%255CController%255CBlindController
+
+return [PHP_INT_MAX, []];
